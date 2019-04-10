@@ -1,0 +1,23 @@
+{
+  "name": "Node-AWSDynamo",
+  "version": "1.0.0",
+  "description": "Example using Dynamo on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelmelicio/Node-AWSDynamo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israelmelicio/Node-AWSDynamo/issues"
+  },
+  "homepage": "https://github.com/israelmelicio/Node-AWSDynamo#readme",
+  "dependencies": {
+    "aws-sdk": "^2.437.0"
+  }
+}
