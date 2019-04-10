@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# Ignore Dynamo Local
+dynamodb_local_latest/
